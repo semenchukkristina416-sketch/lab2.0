@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kristina\\Desktop\\Student\\laboratorna 2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FA8F0-C71C-4369-8748-B92FA7178312}|laboratorna 2.0.vcxproj|C:\\Users\\Kristina\\Desktop\\Student\\laboratorna 2.0\\laboratorna2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F1FA8F0-C71C-4369-8748-B92FA7178312}|laboratorna 2.0.vcxproj|solutionrelative:laboratorna2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laboratorna2.0.cpp",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\Student\\laboratorna 2.0\\laboratorna2.0.cpp",
+              "RelativeDocumentMoniker": "laboratorna2.0.cpp",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\Student\\laboratorna 2.0\\laboratorna2.0.cpp",
+              "RelativeToolTip": "laboratorna2.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T18:51:00.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
