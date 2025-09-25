@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
     double alpha; // вхідний параметр
-    double z1;    // результат обчислення 1-го виразу
+    double z1;    // результат обчислення 1-го 
     double z2;    // результат обчислення 2-го
 
     cout << "alpha=";
@@ -28,6 +28,6 @@ int main()
     cout << "z2 = " << z2 << endl;
 
     cin.get();
-    cin.get(); // для очікування Enter перед закриттям
+    cin.get(); 
     return 0;
 }
